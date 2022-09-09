@@ -1,7 +1,5 @@
 /**  The Game of Nim
 *    Players alternate turns removing 1-3 tokens from a pile.  The player to remove the last token wins
-*    Date Created: 25/05/2010
-*    @author J.Burns
 */ 
 
 //package SwingExample;
